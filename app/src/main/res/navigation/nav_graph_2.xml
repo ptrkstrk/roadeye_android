@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_2"
+    app:startDestination="@id/SettingsFragment">
+
+    <fragment
+        android:id="@+id/SettingsFragment"
+        android:name="com.pkos.roadeye.activities.SettingsActivity$HeaderFragment"
+        android:label="@string/settings_fragment_label">
+        <action
+            android:id="@+id/action_SettingsFragment_to_TestCamFragment"
+            app:destination="@id/TestCamFragment"/>
+    </fragment>
+    <fragment
+        android:id="@+id/TestCamFragment"
+        android:name="com.pkos.roadeye.fragments.FragmentAdjustCam"
+        android:label="@string/testcam_fragment_label"
+        tools:layout="@layout/fragment_test_cam">
+        <action
+            android:id="@+id/action_TestCamFragment_to_SettingsFragment"
+            app:destination="@id/SettingsFragment"/>
+    </fragment>
+
+</navigation>

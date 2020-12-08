@@ -1,0 +1,125 @@
+<resources>
+    <!-- Reply Preference -->
+<!--    <string-array name="reply_entries">-->
+<!--        <item>Reply</item>-->
+<!--        <item>Reply to all</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="reply_values">-->
+<!--        <item>reply</item>-->
+<!--        <itFem>reply_all</itFem>-->
+<!--    </string-array>-->
+
+    <string-array name="sign_labels">
+        <item>information airport</item>
+        <item>information dead end</item>
+        <item>information disabled persons</item>
+        <item>information end of built up area</item>
+        <item>information end of motorway</item>
+        <item>information highway exit</item>
+        <item>information living street</item>
+        <item>information parking</item>
+        <item>information pedestrians crossing</item>
+        <item>regulatory bicycles only</item>
+        <item>regulatory end of maximum speed limit 70</item>
+        <item>regulatory end of priority road</item>
+        <item>regulatory end of speed limit zone</item>
+        <item>regulatory go straight</item>
+        <item>regulatory go straight or turn left</item>
+        <item>regulatory go straight or turn right</item>
+        <item>regulatory height limit</item>
+        <item>regulatory keep left</item>
+        <item>regulatory keep right</item>
+        <item>regulatory keep right</item>
+        <item>regulatory maximum speed limit 10</item>
+        <item>regulatory maximum speed limit 100</item>
+        <item>regulatory maximum speed limit 110</item>
+        <item>regulatory maximum speed limit 120</item>
+        <item>regulatory maximum speed limit 20</item>
+        <item>regulatory maximum speed limit 30</item>
+        <item>regulatory maximum speed limit 40</item>
+        <item>regulatory maximum speed limit 5</item>
+        <item>regulatory maximum speed limit 50</item>
+        <item>regulatory maximum speed limit 60</item>
+        <item>regulatory maximum speed limit 70</item>
+        <item>regulatory maximum speed limit 80</item>
+        <item>regulatory maximum speed limit 90</item>
+        <item>regulatory maximum speed limit led</item>
+        <item>regulatory mopeds and bicycles only</item>
+        <item>regulatory no entry</item>
+        <item>regulatory no heavy goods vehicles</item>
+        <item>regulatory no heavy goods vehicles</item>
+        <item>regulatory no left turn</item>
+        <item>regulatory no left turn</item>
+        <item>regulatory no overtaking</item>
+        <item>regulatory no overtaking</item>
+        <item>regulatory no overtaking</item>
+        <item>regulatory no parking</item>
+        <item>regulatory no parking</item>
+        <item>regulatory no right turn</item>
+        <item>regulatory no right turn</item>
+        <item>regulatory no stopping</item>
+        <item>regulatory no stopping</item>
+        <item>regulatory no u turn</item>
+        <item>regulatory one way left</item>
+        <item>regulatory one way right</item>
+        <item>regulatory one way straight</item>
+        <item>regulatory pass on either side</item>
+        <item>regulatory pedestrians only</item>
+        <item>regulatory priority over oncoming vehicles</item>
+        <item>regulatory priority road</item>
+        <item>regulatory reversible lanes</item>
+        <item>regulatory road closed to vehicles</item>
+        <item>regulatory roundabout</item>
+        <item>regulatory shared path pedestrians and bicycles</item>
+        <item>regulatory stop</item>
+        <item>regulatory turn left</item>
+        <item>regulatory turn left ahead</item>
+        <item>regulatory turn right</item>
+        <item>regulatory turn right ahead</item>
+        <item>regulatory yield</item>
+        <item>warning children</item>
+        <item>warning children</item>
+        <item>warning crossroads</item>
+        <item>warning crossroads</item>
+        <item>warning curve left</item>
+        <item>warning curve left</item>
+        <item>warning curve right</item>
+        <item>warning curve right</item>
+        <item>warning double curve first left</item>
+        <item>warning double curve first right</item>
+        <item>warning hairpin curve right</item>
+        <item>warning height restriction</item>
+        <item>warning junction with a side road perpendicular left</item>
+        <item>warning junction with a side road perpendicular right</item>
+        <item>warning kangaloo crossing</item>
+        <item>warning narrow bridge</item>
+        <item>warning other danger</item>
+        <item>warning pedestrians crossing</item>
+        <item>warning pedestrians crossing</item>
+        <item>warning pedestrians crossing</item>
+        <item>warning railroad crossing</item>
+        <item>warning railroad crossing with barriers</item>
+        <item>warning railroad crossing without barriers</item>
+        <item>warning railroad crossing without barriers</item>
+        <item>warning road bump</item>
+        <item>warning road bump</item>
+        <item>warning road narrows</item>
+        <item>warning roadworks</item>
+        <item>warning roundabout</item>
+        <item>warning school zone</item>
+        <item>warning slippery road surface</item>
+        <item>warning slippery road surface</item>
+        <item>warning stop ahead</item>
+        <item>warning texts</item>
+        <item>warning traffic merges right</item>
+        <item>warning traffic signals</item>
+        <item>warning traffic signals</item>
+        <item>warning trucks crossing</item>
+        <item>warning turn left</item>
+        <item>warning turn right</item>
+        <item>warning winding road first left</item>
+        <item>warning winding road first right</item>
+    </string-array>
+
+</resources>

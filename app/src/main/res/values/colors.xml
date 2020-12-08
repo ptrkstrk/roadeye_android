@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#983CFF</color>-->
+<!--    <color name="colorPrimaryDark">#681C97</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+<!--    <color name="deviceSelectedColor">#6BD81B60</color>-->
+    <color name="colorPrimary">#e9c46a</color>
+    <color name="colorPrimaryDark">#f4a261</color>
+    <color name="colorAccent">#e76f51</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorInformation">#0000FF</color>
+    <color name="yieldColor">#FF0000</color>
+    <color name="warningColor">#FFCC00</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="deviceSelectedColor">#f4a261</color>
+</resources>
